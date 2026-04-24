@@ -1,7 +1,7 @@
 # hybrid-slam-original
 # Run code: 
 ```bash
-**!sudo apt-get update && apt-get install -y build-essential cmake ninja-build libtbb-dev
+!sudo apt-get update && apt-get install -y build-essential cmake ninja-build libtbb-dev
 !python3 -m pip install pybind11
 %cd hybrid-slam-original
 !git clone https://github.com/leedongzheo/hybrid-slam-original.git
